@@ -17,7 +17,7 @@ Run migrations:
 
 -----
 
-## Configuration
+### Configuration
 
 If you want to configurate some package parameters, run vendor publish:
 
